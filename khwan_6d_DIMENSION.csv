@@ -1,0 +1,96 @@
+ctr,country,pdi,idv,mas,uai,ltowvs,ivr,country_cc,ISO2
+AFE,Africa East,64.0,27.0,41.0,52.0,32.0,40.0,Africa East,Africa East
+AFW,Africa West,77.0,20.0,46.0,54.0,9.0,78.0,Africa West,Africa West
+ALB,Albania,90.0,20.0,80.0,70.0,61.0,15.0,Albania,AL
+ALG,Algeria,80.0,35.0,35.0,70.0,26.0,32.0,Algeria,DZ
+ANG,Angola,83.0,18.0,20.0,60.0,15.0,83.0,Angola,AO
+ARA,Arab countries,80.0,38.0,53.0,68.0,23.0,34.0,Arab countries,Arab countries
+ARG,Argentina,49.0,46.0,56.0,86.0,20.0,62.0,Argentina,AR
+ARM,Armenia,85.0,22.0,50.0,88.0,61.0,25.0,Armenia,AM
+AUL,Australia,38.0,90.0,61.0,51.0,21.0,71.0,Australia,AU
+AUT,Austria,11.0,55.0,79.0,70.0,60.0,63.0,Austria,AT
+AZE,Azerbaijan,85.0,22.0,50.0,88.0,61.0,22.0,Azerbaijan,AZ
+BAN,Bangladesh,80.0,20.0,55.0,60.0,47.0,20.0,Bangladesh,BD
+BLR,Belarus,95.0,25.0,20.0,95.0,81.0,15.0,Belarus,BY
+BEL,Belgium,65.0,75.0,54.0,94.0,82.0,57.0,Belgium,BE
+BOS,Bosnia,90.0,22.0,48.0,87.0,70.0,44.0,Bosnia and Herzegovina,BA
+BRA,Brazil,69.0,38.0,49.0,76.0,44.0,59.0,Brazil,BR
+BOL,Bolivia,78.0,10.0,42.0,87.0,25.0,46.0,Bolivia,BO
+BUL,Bulgaria,70.0,30.0,40.0,85.0,69.0,16.0,Bulgaria,BG
+BUF,Burkina Faso,70.0,15.0,50.0,55.0,27.0,18.0,Burkina Faso,BF
+CAN,Canada,39.0,80.0,52.0,48.0,36.0,68.0,Canada,CA
+CHL,Chile,63.0,23.0,28.0,86.0,31.0,68.0,Chile,CL
+CHI,China,80.0,20.0,66.0,30.0,87.0,24.0,China,CN
+COL,Colombia,67.0,13.0,64.0,80.0,13.0,83.0,Colombia,CO
+CRO,Croatia,73.0,33.0,40.0,80.0,58.0,33.0,Croatia,HR
+CZE,Czech Rep,57.0,58.0,57.0,74.0,70.0,29.0,Czech Republic,CZ
+DEN,Denmark,18.0,74.0,16.0,23.0,35.0,70.0,Denmark,DK
+DOM,Dominican Rep,65.0,30.0,65.0,45.0,13.0,54.0,Dominican Republic,DO
+EGY,Egypt,70.0,25.0,45.0,80.0,7.0,4.0,Egypt,EG
+SAL,El Salvador,66.0,19.0,40.0,94.0,20.0,89.0,El Salvador,SV
+EST,Estonia,40.0,60.0,30.0,60.0,82.0,16.0,Estonia,EE
+FIN,Finland,33.0,63.0,26.0,59.0,38.0,57.0,Finland,FI
+FRA,France,68.0,71.0,43.0,86.0,63.0,48.0,France,FR
+GEO,Georgia,65.0,41.0,55.0,85.0,38.0,32.0,Georgia,GE
+GER,Germany,35.0,67.0,66.0,65.0,83.0,40.0,Germany,DE
+GHA,Ghana,80.0,15.0,40.0,65.0,4.0,72.0,Ghana,GH
+GBR,Great Britain,35.0,89.0,66.0,35.0,51.0,69.0,United Kingdom,GB
+GRE,Greece,60.0,35.0,57.0,100.0,45.0,50.0,Greece,GR
+HOK,Hong Kong,68.0,25.0,57.0,29.0,61.0,17.0,Hong Kong,HK
+HUN,Hungary,46.0,80.0,88.0,82.0,58.0,31.0,Hungary,HU
+ICE,Iceland,30.0,60.0,10.0,50.0,28.0,67.0,Iceland,IS
+IND,India,77.0,48.0,56.0,40.0,51.0,26.0,India,IN
+IDO,Indonesia,78.0,14.0,46.0,48.0,62.0,38.0,Indonesia,ID
+IRA,Iran,58.0,41.0,43.0,59.0,14.0,40.0,Iran,IR
+IRQ,Iraq,95.0,30.0,70.0,85.0,25.0,17.0,Iraq,IQ
+IRE,Ireland,28.0,70.0,68.0,35.0,24.0,65.0,Ireland,IE
+ITA,Italy,50.0,76.0,70.0,75.0,61.0,30.0,Italy,IT
+JPN,Japan,54.0,46.0,95.0,92.0,88.0,42.0,Japan,JP
+JOR,Jordan,70.0,30.0,45.0,65.0,16.0,43.0,Jordan,JO
+KOR,Korea South,60.0,18.0,39.0,85.0,100.0,29.0,South Korea,KR
+LAT,Latvia,44.0,70.0,9.0,63.0,69.0,13.0,Latvia,LV
+LEB,Lebanon,75.0,40.0,65.0,50.0,14.0,25.0,Lebanon,LB
+LIB,Libya,80.0,38.0,52.0,68.0,23.0,34.0,Libya,LY
+LIT,Lithuania,42.0,60.0,19.0,65.0,82.0,16.0,Lithuania,LT
+LUX,Luxembourg,40.0,60.0,50.0,70.0,64.0,56.0,Luxembourg,LU
+MK,Macedonia,90.0,22.0,45.0,87.0,62.0,35.0,Macedonia,MK
+MAL,Malaysia,100.0,26.0,50.0,36.0,41.0,57.0,Malaysia,MY
+MLT,Malta,56.0,59.0,47.0,96.0,47.0,66.0,Malta,MT
+MEX,Mexico,81.0,30.0,69.0,82.0,24.0,97.0,Mexico,MX
+MOL,Moldova,90.0,27.0,39.0,95.0,71.0,19.0,Moldova,MD
+MNG,Montenegro,88.0,24.0,48.0,90.0,75.0,20.0,Montenegro,ME
+MOR,Morocco,70.0,46.0,53.0,68.0,14.0,25.0,Morocco,MA
+MOZ,Mozambique,85.0,15.0,38.0,44.0,11.0,80.0,Mozambique,MZ
+NET,Netherlands,38.0,80.0,14.0,53.0,67.0,68.0,Netherlands,NL
+NZL,New Zealand,22.0,79.0,58.0,49.0,33.0,75.0,New Zealand,NZ
+NIG,Nigeria,80.0,30.0,60.0,55.0,13.0,84.0,Nigeria,NG
+NOR,Norway,31.0,69.0,8.0,50.0,35.0,55.0,Norway,NO
+PAK,Pakistan,55.0,14.0,50.0,70.0,50.0,0.0,Pakistan,PK
+PAR,Paraguay,70.0,12.0,40.0,85.0,20.0,56.0,Paraguay,PY
+PER,Peru,64.0,16.0,42.0,87.0,25.0,46.0,Peru,PE
+PHI,Philippines,94.0,32.0,64.0,44.0,27.0,42.0,Philippines,PH
+POL,Poland,68.0,60.0,64.0,93.0,38.0,29.0,Poland,PL
+POR,Portugal,63.0,27.0,31.0,99.0,28.0,33.0,Portugal,PT
+PUE,Puerto Rico,68.0,27.0,56.0,38.0,0.0,90.0,Puerto Rico,PR
+ROM,Romania,90.0,30.0,42.0,90.0,52.0,20.0,Romania,RO
+RUS,Russia,93.0,39.0,36.0,95.0,81.0,20.0,Russia,RU
+SAU,Saudi Arabia,95.0,25.0,60.0,80.0,36.0,52.0,Saudi Arabia,SA
+SER,Serbia,86.0,25.0,43.0,92.0,52.0,28.0,Serbia,RS
+SIN,Singapore,74.0,20.0,48.0,8.0,72.0,46.0,Singapore,SG
+SLK,Slovak Rep,100.0,52.0,100.0,51.0,77.0,28.0,Slovakia,SK
+SLV,Slovenia,71.0,27.0,19.0,88.0,49.0,48.0,Slovenia,SI
+SAF,South Africa,49.0,65.0,63.0,49.0,34.0,63.0,South Africa,ZA
+SPA,Spain,57.0,51.0,42.0,86.0,48.0,44.0,Spain,ES
+SWE,Sweden,31.0,71.0,5.0,29.0,53.0,78.0,Sweden,SE
+SWI,Switzerland,34.0,68.0,70.0,58.0,74.0,66.0,Switzerland,CH
+TAI,Taiwan,58.0,17.0,45.0,69.0,93.0,49.0,Taiwan,TW
+TAN,Tanzania,70.0,25.0,40.0,50.0,34.0,38.0,Tanzania,TZ
+THA,Thailand,64.0,20.0,34.0,64.0,32.0,45.0,Thailand,TH
+TRI,Trinidad and Tobago,47.0,16.0,58.0,55.0,13.0,80.0,Trinidad and Tobago,TT
+TUR,Turkey,66.0,37.0,45.0,85.0,46.0,49.0,Turkey,TR
+USA,U.S.A.,40.0,91.0,62.0,46.0,26.0,68.0,United States,US
+UKR,Ukraine,92.0,25.0,27.0,95.0,86.0,14.0,Ukraine,UA
+URU,Uruguay,61.0,36.0,38.0,98.0,26.0,53.0,Uruguay,UY
+VEN,Venezuela,81.0,12.0,73.0,76.0,16.0,100.0,Venezuela,VE
+VIE,Vietnam,70.0,20.0,40.0,30.0,57.0,35.0,Vietnam,VN
+ZAM,Zambia,60.0,35.0,40.0,50.0,30.0,42.0,Zambia,ZM
